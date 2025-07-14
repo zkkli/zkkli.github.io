@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "<center>Zhikai Li</center> <br> <center>(李志凯)</center> "
   pronouns         : # example: "she/her"  
-  bio              : "<center>Assistant Professor @ CASIA</center>"
+  bio              : "<center>Assistant Professor</center>"
   location         : "Beijing, China"
-  employer         : "Institute of Automation, Chinese Academy of Sciences"
+  employer         : 
   uri              : # URL
   email            : "zhikai.li@ia.ac.cn" 
 
