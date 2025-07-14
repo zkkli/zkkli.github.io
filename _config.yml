@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "<div style='text-align: center;'><img src='profile.png' alt='Avatar' style='display: block; margin-left: auto; margin-right: auto;'><br>Zhikai Li</div> <div style='text-align: center;'>(李志凯)</div>"
+  name             : "Zhikai Li (李志凯)"
   pronouns         : # example: "she/her"  
-  bio              : "<div style='text-align: center;'>Assistant Professor</div>"
+  bio              : "Assistant Professor"
   location         : "Beijing, China"
   employer         : 
   uri              : # URL
