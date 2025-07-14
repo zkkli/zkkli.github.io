@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "<center>profile.png</center>"
-  name             : "<center>Zhikai Li</center> <br> <center>(李志凯)</center> "
+  avatar           : "profile.png"
+  name             : "<div style='text-align: center;'>Zhikai Li</div> <div style='text-align: center;'>(李志凯)</div>"
   pronouns         : # example: "she/her"  
-  bio              : "<center>Assistant Professor</center>"
+  bio              : "<div style='text-align: center;'>Assistant Professor</div>"
   location         : "Beijing, China"
   employer         : 
   uri              : # URL
