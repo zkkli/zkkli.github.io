@@ -9,6 +9,7 @@ author_profile: true
 
 Publications
 ===
+* Xuewen Liu, **Zhikai Li✉**, Minhao Jiang, Mengjuan Chen, Jianquan Li, and Qingyi Gu. [DilateQuant: Accurate and efficient quantization-aware training for diffusion models via weight dilation](https://arxiv.org/pdf/2409.14307?). ACM International Conference on Multimedia (ACM MM), 2025.
 * **Zhikai Li**, Xuewen Liu, Dongrong Fu, Jianquan Li, Qingyi Gu, Kurt Keutzer, and Zhen Dong. [K-sort arena: Efficient and reliable benchmarking for generative models via k-wise human preferences](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_K-Sort_Arena_Efficient_and_Reliable_Benchmarking_for_Generative_Models_via_CVPR_2025_paper.pdf). IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 * **Zhikai Li**, Mengjuan Chen, Junrui Xiao, and Qingyi Gu. [PSAQ-ViT V2: Towards accurate and general data-free quantization for vision transformers](https://ieeexplore.ieee.org/abstract/document/10216922/). IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
 * **Zhikai Li**, Xianlei Long, Junrui Xiao, and Qingyi Gu. [HTQ: Exploring the high-dimensional trade-Off of mixed-precision quantization](https://www.sciencedirect.com/science/article/pii/S0031320324005399). Pattern Recognition (PR), 2024.
