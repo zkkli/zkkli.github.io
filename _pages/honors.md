@@ -14,7 +14,7 @@ Honors and Awards
 * China National Scholarship, 2024
 * CSC scholarship, 2024
 * Pacemaker to Merit Student of UCAS, 2023
-* Merit Student of UCAS, 2021 & 2023
+* Merit Student of UCAS, 2021 & 2022
 * Outstanding Graduates of Liaoning & DUT, 2020
 * China National Scholarship, 2018
 * Merit Student of Dalian, 2018
