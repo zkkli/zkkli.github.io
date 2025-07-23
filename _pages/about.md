@@ -16,6 +16,14 @@ My research interests include efficient AI (LLM, VLM, VideoGen), model compressi
 
 🔥***Long-term Recruiting: I am actively looking for visiting students and researchers (bachelor, master, or Ph.D.), feel free to contact me at zhikai.li@ia.ac.cn if you are interested in working with me!***
 
+Education & Work Experience
+======
+* 2025.07 – Present, Assistant Professor. Institute of Automation, Chinese Academy of Sciences.
+* 2024.09 – 2025.05, Visiting Scholar. National University of Singapore.
+* 2023.05 – 2024.08, Visiting PhD Student (remotely). UC Berkeley.
+* 2020.09 – 2025.06, PhD in Pattern Recognition. Institute of Automation, Chinese Academy of Sciences.
+* 2016.09 – 2020.06, Bachelor in Electronic Engineering. Dalian University of Technology.
+
 Research Interests
 ======
 * Efficient AI (LLM, VLM, VideoGen)
