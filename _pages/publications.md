@@ -9,7 +9,8 @@ author_profile: true
 
 Publications
 ===
-* Xuewen Liu, **Zhikai Li✉**, Minhao Jiang, Mengjuan Chen, Jianquan Li, and Qingyi Gu. [DilateQuant: Accurate and efficient quantization-aware training for diffusion models via weight dilation](https://arxiv.org/pdf/2409.14307?). ACM International Conference on Multimedia (ACM MM), 2025.
+* Jing Zhang, **Zhikai Li✉**, Chengzhi Hu, Xuewen Liu, Qingyi Gu. [SAQ-SAM: Semantically-aligned quantization for segment anything model](https://arxiv.org/pdf/2503.06515). AAAI Conference on Artificial Intelligence (AAAI), 2026.
+* Xuewen Liu, **Zhikai Li✉**, Minhao Jiang, Mengjuan Chen, Jianquan Li, and Qingyi Gu. [DilateQuant: Accurate and efficient quantization-aware training for diffusion models via weight dilation](https://arxiv.org/pdf/2409.14307). ACM International Conference on Multimedia (ACM MM), 2025.
 * Pan Du, Wangbo Zhao, Xinai Lu, Nian Liu, **Zhikai Li**, Chaoyu Gong, Suyun Zhao, Hong Chen, Cuiping Li, Kai Wang, Yang You. [Unsupervised learning for class distribution mismatch](https://arxiv.org/pdf/2505.06948). International Conference on Machine Learning (ICML), 2025.
 * **Zhikai Li**, Mengjuan Chen, Junrui Xiao, and Qingyi Gu. CoLeQ: Improving data-free quantization via contrastive learning. IEEE Transactions on Multimedia (TMM), 2025.
 * **Zhikai Li**, Xuewen Liu, Dongrong Fu, Jianquan Li, Qingyi Gu, Kurt Keutzer, and Zhen Dong. [K-sort arena: Efficient and reliable benchmarking for generative models via k-wise human preferences](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_K-Sort_Arena_Efficient_and_Reliable_Benchmarking_for_Generative_Models_via_CVPR_2025_paper.pdf). IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
