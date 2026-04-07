@@ -9,6 +9,8 @@ author_profile: true
 
 Publications
 ===
+* **Zhikai Li**, Jing Zhang, Qingyi Gu. [Privacy-preserving sam quantization for efficient edge intelligence in healthcare](https://arxiv.org/pdf/2410.01813?). International Journal of Computer Vision (IJCV), 2026.
+* Minhao Jiang, **Zhikai Li**, Xuewen Liu, Jing Zhang, Mengjuan Chen, Qingyi Gu. [Sparsity induction for accurate post-training pruning of large language models](https://arxiv.org/pdf/2602.21652). International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
 * **Zhikai Li**, Jiatong Li, Xuewen Liu, Wangbo Zhao, Pan Du, Kaicheng Zhou, Qingyi Gu, Yang You, Zhen Dong, Kurt Keutzer. [K-Sort Eval: Efficient preference evaluation for visual generation via corrected VLM-as-a-judge](https://arxiv.org/pdf/2602.09411). International Conference on Learning Representations (ICLR), 2026.
 * Xuewen Liu, **Zhikai Li✉**, Jing Zhang, Mengjuan Chen, Qingyi Gu. [PTQ4ARVG: Post-training quantization for autoregressive visual generation models](https://arxiv.org/pdf/2601.21238). International Conference on Learning Representations (ICLR), 2026.
 * Jing Zhang, **Zhikai Li✉**, Xuewen Liu, Qingyi Gu. [Efficient-SAM2: Accelerating SAM2 with object-aware visual encoding and memory retrieval](https://arxiv.org/pdf/2602.08224). International Conference on Learning Representations (ICLR), 2026.
