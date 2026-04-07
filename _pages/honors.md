@@ -9,6 +9,7 @@ author_profile: true
 
 Honors and Awards
 ===
+* First Prize for Wu Wenjun Artificial Intelligence Technology Progress Awards, 2026
 * CAS Presidential Scholarship, 2025
 * Outstanding Graduates of Beijing & CASIA, 2025
 * China National Scholarship, 2024
