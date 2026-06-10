@@ -9,12 +9,14 @@ author_profile: true
 
 Publications
 ===
+* Xuewen Liu, **Zhikai Li✉**, Junrui Xiao, Mengjuan Chen, Jianquan Li, Qingyi Gu. [EDA-DM: Enhanced distribution alignment for post-training quantization of diffusion models](https://arxiv.org/pdf/2401.04585). IEEE Transactions on Image Processing (TIP), 2026.
 * **Zhikai Li**, Zhen Dong, Xuewen Liu, Jing Zhang, Qingyi Gu. [OSAQ: Outlier self-absorption for accurate low-bit LLM quantization](https://arxiv.org/pdf/2605.04738). International Conference on Machine Learning (ICML), 2026.
 * **Zhikai Li**, Jing Zhang, Qingyi Gu. [Privacy-preserving sam quantization for efficient edge intelligence in healthcare](https://arxiv.org/pdf/2410.01813?). International Journal of Computer Vision (IJCV), 2026.
 * Minhao Jiang, **Zhikai Li**, Xuewen Liu, Jing Zhang, Mengjuan Chen, Qingyi Gu. [Sparsity induction for accurate post-training pruning of large language models](https://arxiv.org/pdf/2602.21652). International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
 * **Zhikai Li**, Jiatong Li, Xuewen Liu, Wangbo Zhao, Pan Du, Kaicheng Zhou, Qingyi Gu, Yang You, Zhen Dong, Kurt Keutzer. [K-Sort Eval: Efficient preference evaluation for visual generation via corrected VLM-as-a-judge](https://arxiv.org/pdf/2602.09411). International Conference on Learning Representations (ICLR), 2026.
 * Xuewen Liu, **Zhikai Li✉**, Jing Zhang, Mengjuan Chen, Qingyi Gu. [PTQ4ARVG: Post-training quantization for autoregressive visual generation models](https://arxiv.org/pdf/2601.21238). International Conference on Learning Representations (ICLR), 2026.
 * Jing Zhang, **Zhikai Li✉**, Xuewen Liu, Qingyi Gu. [Efficient-SAM2: Accelerating SAM2 with object-aware visual encoding and memory retrieval](https://arxiv.org/pdf/2602.08224). International Conference on Learning Representations (ICLR), 2026.
+* **Zhikai Li**, Xiaoxuan Liu, Banghua Zhu, Zhen Dong, Qingyi Gu, Kurt Keutzer. [Qft: Quantized full-parameter tuning of llms with affordable resources](https://arxiv.org/pdf/2310.07147). ICLR 2026 Workshop on Scaling Post-training for LLMs (ICLR@SPOT), 2026.
 * Jing Zhang, **Zhikai Li✉**, Chengzhi Hu, Xuewen Liu, Qingyi Gu. [SAQ-SAM: Semantically-aligned quantization for segment anything model](https://arxiv.org/pdf/2503.06515). AAAI Conference on Artificial Intelligence (AAAI), 2026.
 * **Zhikai Li**, Mengjuan Chen, Junrui Xiao, and Qingyi Gu. [CoLeQ: Improving data-free quantization via contrastive learning](https://ieeexplore.ieee.org/document/11304167). IEEE Transactions on Multimedia (TMM), 2025.
 * Xuewen Liu, **Zhikai Li✉**, Minhao Jiang, Mengjuan Chen, Jianquan Li, and Qingyi Gu. [DilateQuant: Accurate and efficient quantization-aware training for diffusion models via weight dilation](https://arxiv.org/pdf/2409.14307). ACM International Conference on Multimedia (ACM MM), 2025.
